@@ -1,0 +1,75 @@
+Word Vomit Section
+
+  The Holographic Web is the idea that rather than web "pages", we'll have web "holograms." 
+  These holograms will be available for consumption through virtual or augmented reality web platforms. 
+  They will be as diverse as web content is today.
+  VR is not about games.
+
+  We've implemented a version of the Holographic Web.
+  "A new way of looking at the web"
+
+
+  PART 1: We build holograms, and you can too.
+    Talking about holograms today.
+    Yes indeed, the sci fi kind of holograms. 
+      e.g. Starwars - real world objects in front of me.
+    Room scale games 
+      e.g. Her - interacting with your OS
+    Fun user interfaces
+      e.g. Ironman
+    The SDK is available today.
+
+    (Gavan's #VRTechTalk)
+
+  PART 2: Altspace is communication.
+    Communicate in the most natural and fulfilling way possible online.
+
+    Properties of communication channels.
+    Strengths
+      Text : Persistant, searchable, scalable, exact (written language). 
+        SLACK, WECHAY, SMS
+      Voice : Ephemeral, familiar
+      Video : Personal, Micro-expressions, limited body language.
+      In person : Context, group communication, presence
+      VR (AR) : Anyone, anywhere. Embedded web content. Context-fluid. Customizable H2h interface
+
+    Weaknesses
+      Text : Impersonal. Requires effort. Limited.
+      Voice : Group communication is difficult. Impossible to embed other content.
+      Video : Group communication is difficult. Impersonal 1-to-many. One thing must be in focus.
+      In person : All communication is to group. 
+      VR (AR) : Accessibility, touch, micro-expressions.
+
+    Stength comes from mixing and matching for specific purposes.
+      e.g. Twitch: Video + Text
+      e.g. Discord : Text, Voice, Multiplatform
+      e.g. Snapchat : Photo, text, ephemeral
+
+    What does ultra-high bandwidth communication look like? 
+
+  PART 3: 
+    I/O is more than HCI. HCI shapes HHI.
+    Technology is a double edged sword, helping us and harming us.
+    (Bret Victor - Humane Representation of Information)
+    We are stuck with outdated modes of HCI. 
+    Code is algebra. Visual Programming is geometry. We need hybrid + more.
+    Human capabilities unused until now.
+    What is the ideal HHI? It will shape HCI development.
+
+  PART 4: 
+    Interacting through avatars is not the only way.
+    How to have safe, public gatherings.
+    Who should own the information being exchanged between users?
+
+
+
+  Part 5:
+    MEMES
+
+  The net is vast and infinite.
+    In ghost in the shell, motoko uploads her human mind into the net. 
+    She is able to "be" anywhere through her dolls / real-world avatar. We will all do this soon in VR. 
+    An avatar is a map of human capabilities to functions of another system.
+    Today we map very few of our capabilities.
+
+

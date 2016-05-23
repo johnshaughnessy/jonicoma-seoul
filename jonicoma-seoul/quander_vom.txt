@@ -1,0 +1,52 @@
+John [11:58] 
+Although, it makes me want to point out that the reason I have the stream is not for interesting things to happen on it, but so that it's an easy and accessible communication channel for one-to-many interactions with a video stream I may want to have, or offer to people. Twitch streams try to be entertaining, and I hope mine will be, but what's more important to me is exploring "maximum accessibility", in the sense that humans can access me through as many communication channels during the time I'm "online" w/ them.
+
+[11:59] 
+The twitch stream is the video-out, publically-readable text-in channel.
+
+marshall [11:59] 
+wow that's a cool way to think
+
+john [11:59] 
+(Also sms is a private text channel, etc etc.) (edited)
+
+marshall [12:00] 
+it makes me think of e.g. my room as a kind of leaky room with little ways out of it, like my webcam, my window, my cell phone, the other cell phone, my keyboard
+
+[12:00] 
+like secret passages
+
+john [12:20] 
+[aside: I'm going to make up some words at the recommendation of "Avatarism" person from svvr]
+Yes, you're brain activity leaks out of commels [communication channels] and the "ways out" have dimension in communication media.
+
+For example, Symbolic language (e.g. text, written language, speech) is a set of ​_combilities_​ (communication capabilities [making up word on recommendation by "Avatarism" person from svvr]) that humans can use to communicate ("get the hallucination from my head into the hallucination in your head"). The symbolic language "combility" is a set of axes in "Communication Space". Other media like voice (e.g. radio), video (e.g. television, live streams) have sets of "combilities" that are dimensions in "Communication Space". Technology augments our "combility sets" in powerful ways, and these augmentations come at a price. Technology is a 'double-edged sword' and humans are like frogs who sit in boiling water when it comes to reacting to the side of the sword that cuts us down. E.g. Would you rather be a human without high risk for carpal tunnel syndrome or not have been able to compute for the last 40 years? (Drog a frog in boiling water, and it will jump and swim and fight to get out. Boil a frog from room temperature water and they die by getting cooked. They respond to the derivative of temperature. We respond to the derivative of augmentechtions (technological augmentation), and if we don't design our augmentechtions with the explicit intention of preserving the parts of our humanity that took millennia to develop (healthy heart, lungs, legs, hips, back, carpal-tunnelless wrists), then we risk losing types of evolutionary progress that we ​*don't*​ find a way to augment with technology.)
+
+When I open up lots of apps like my stream and discord and altspace, I make ready as many combility sets as possible so that I can engage in social computing. (edited)
+
+[12:23] 
+Does this make sense? I want to talk about this sort of thing at the symposium in Seoul.
+
+[12:25] 
+btw if you have anything high-bandwidth you feel like saying in voice chat (​_for exaaaample_​), i'm in a discord channel now and I say this because it's not an obvious thing that is always on and easy to check. (edited)
+
+[12:27] 
+I can't tell if I'm making sense because I've been thinking about this in circles for many hours in a row and have been using an incomplete and inconsistent human-english dsl to try to understand these things
+
+[12:28] 
+Trying to bounce the words off as many other human brains as possible to form it into a shape that fits into other human brains (and is closer to true along the way, i hope)
+
+[12:29] 
+​_Jonicoma stops typing._​ (edited)
+
+[12:31] 
+​_Jonicoma's mind changes._​
+
+[12:32] 
+Oh and we tend to think about communication between humans distinctly from communication between computers but I/O loops are closing and they're closing between humans in whatever ways they can connect to the computers and humans are losing things that don't aren't in the loop.
+
+john [12:39] 
+So I want to talk about this and about how our sdk let's app developers make content with the set of powerful combilities a virtual environment like altspace is working to create / provide.
+
+[12:40] 
+e.g. 3D flappy dragon (​_jokes_​)

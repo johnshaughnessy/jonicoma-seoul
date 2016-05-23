@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Social Computing in VR</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+  <link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/black.css" id="theme">
+    <link rel="shortcut icon"
+ href="favicon.png" />
+
+  <!-- Code syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+  <style>
+    body {
+      background: rgba(1, 0, 0, 0);
+    }
+    .reveal div.void {
+      margin-left: 250px;
+      width: 500px;
+      height: 500px;
+      border-radius: 500px;
+      background-color: rgba(1, 0, 0, 0);
+      box-shadow: 0 0 8px 800px #0098FF;
+    }
+        .section {
+        background-image: url(img/logo.png);
+        }
+        html.dim .backgrounds {
+           -webkit-filter: saturate(.5) brightness(.4);
+           -moz-filter: saturate(.5) brightness(.4);
+           -o-filter: saturate(.5) brightness(.4);
+           -ms-filter: saturate(.5) brightness(.4);
+           filter: saturate(.5) brightness(.4);
+        }
+  </style>
+
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+      <!-- Intro -->
+      <section data-background="#ffffff">
+        <section>
+          <h3>Social Computing in VR</h3>
+          <p>John Shaughnessy</p>
+          <p>AltspaceVR</p>
+        </section>
+        <section>
+          <p>Communication dwarfs gaming.</p>
+          <!-- <img height="500px" data-src="img/tingting_carl.gif" /> -->
+        </section>
+        <section>
+          <p>VR will change how we communicate</p>
+          <p class="fragment">with each other</p> 
+          <p class="fragment">and our computers.</p>
+        </section>
+      </section>
+
+      <!-- With each other -->
+      <section data-background="#ffffff">
+        <section>
+          <p>We communicate what we understand.</p>
+          <img class="fragment fade-in" data-src="img/bret_victor_modes.png" />
+          <p class="fragment fade-in">These took millenia to develop.<p>
+        </section>
+<!--         <section data-background="img/bret_victor_representations.png">
+        </section>
+ -->        <section>
+          <p>Communication happens in channels.</p>
+        </section>
+        <section>
+          <p>VR is dynamic by default.</p>
+        </section>
+<!--         <section data-background-video="vid/fantastic_contraption.mp4">
+        </section>
+        <section data-background-video="vid/bret_victor.webm">
+        </section>
+        <section data-background-video="vid/concert_programmer.webm">
+        </section>
+ -->      </section>
+
+      <!-- Communicating with computers -->
+      <section data-background="#ffffff">
+        <section >
+          <p>We are all cyborgs.</p>
+        </section>
+        <section >
+          <p>Augment or atrophy.</p>
+          <img data-src="img/atrophy.png" />
+        </section>
+        <section >
+          <p>VR requires new input devices.</p>
+        </section>
+<!--         <section data-background-video="vid/vive.webm">
+        </section>
+        <section data-background-video="vid/leap.webm">
+        </section>
+        <section data-background-video="vid/neuron.webm">
+        </section>
+        <section data-background="img/eye-tracking.gif">
+        </section>
+ -->        <section >
+          <p>Programming is still too difficult.</p>
+        </section>
+      </section>
+
+      <!-- Holographic Web -->
+      <section data-background="#ffffff">
+        <section>
+          <p>Focus on what's in front of us.</p>
+        </section>
+        <section>
+          <p>AltspaceVR</p>          
+<!--           <video autoplay="true" controls="true" data-src="vid/altspacevr.webm" ></video> 
+ -->          <p>Connect in the most natural and fulfilling way possible online.</p>
+        </section>
+        <section>
+          <p>The Holographic Web</p>
+        </section>
+<!--         <section data-background="img/sdk/live-edit.gif">
+        </section>
+        <section data-background="img/sdk/flappy.gif">
+        </section>
+ -->        <section>
+          <p>AltspaceVR SDK</p>
+        </section>
+        <section>
+          <h4>Why the web?</h4>
+          <p>Sandbox</p>
+          <p>Delivery System</p>
+          <p>Live IDEs</p>
+          <p>Open Source Community</p>
+          <p>Open 3D Content</p>
+        </section>
+      </section>
+
+      <section>
+        <section data-background="#ffffff">
+            <h3>Build Holograms</h1>
+            <p> developer.altvr.com </p>
+            <br>
+            <h3>Work with us</h3>
+            <p>jobs.altvr.com</p>
+            <br>
+            <p>john@altvr.com</p>
+        </section>
+      </section>
+
+    </div>
+  <div>
+
+  <script src="lib/js/head.min.js"></script>
+  <script src="js/reveal.js"></script>
+
+  <script>
+
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+
+      transition: 'convex',
+
+      // Optional reveal.js plugins
+      dependencies: [
+      { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+      { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+      { src: 'plugin/zoom-js/zoom.js', async: true },
+      //{ src: 'plugin/notes/notes.js', async: true }
+      ]
+    });
+    Reveal.configure({
+        keyboard: {
+            //83: null
+        },
+    });
+
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r71/three.js"></script>
+  <script src="fonts/helvetiker_regular.typeface.js"></script>
+  <script>
+    //Setup
+    /*scene = new THREE.Scene();
+
+    //Rendering
+    renderer = altspace.getThreeJSRenderer({version:'0.2.0'});
+
+    var sceneAnimation;
+
+    function animate() {
+      requestAnimationFrame(animate);
+      if (sceneAnimation) { sceneAnimation(); }
+      renderer.render(scene);
+    }
+    animate();
+
+    var getInitScene = function (el) {
+      var initScene = function () {
+        if (el.dataset.scene) {
+          sceneAnimation = window[el.dataset.scene](scene);
+        }
+        el.removeEventListener('transitionend', initScene);
+      }
+      return initScene;
+    };
+
+    Reveal.addEventListener('slidechanged', function (event) {
+      if (window.skeleton) {
+        for (var joint in skeleton.trackingJoints) {
+          if (skeleton.trackingJoints.hasOwnProperty(joint)) {
+            var jointObj = skeleton.trackingJoints[joint];
+            jointObj.remove(jointObj.children[0]);
+          }
+        }
+      }
+      for (var i = scene.children.length - 1; i >= 0; i--) {
+        scene.remove(scene.children[i]);
+      }
+      var el = event.currentSlide;
+      sceneAnimation = null;
+      el.addEventListener('transitionend', getInitScene(el));
+    });*/
+
+  </script>
+</body>
+</html>

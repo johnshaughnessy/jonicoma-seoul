@@ -1,0 +1,26 @@
+Summary Vomit Section
+
+  Intro
+    VR is here, AR is coming. 
+    VR is not about games. Communication dwarfs gaming. 
+    I/O augments part of what makes us human.
+    AltspaceVR's goal is to allow users to communicate in the most natural and fulfilling way possible online. 
+    The web is not made of "pages".
+    Sharing a computing environment enables extra high-bandwidth communication.
+
+
+  Communication
+    AltspaceVR's goal is to allow users to communicate in the most natural and fulfilling way possible online. 
+    Natural:
+      Technology is double edged sword.
+      I/O is more than HCI, because HCI shapes HHI.
+      Our HCI sucks, so our HHI is limited. 
+      VR is changing that.
+    Fulfilling: 
+      Every communication channel has strengths and weaknesses.
+      One way to think about communication channels is "information bandwidth."
+      Shared computing environments will allow for higher-bandwidth communication than real life.
+
+  Holographic Web
+    The web today delivers "apps" to every platform - it's much more than web "pages" of text and hyperlinks. 
+    AltspaceVR hosts synchonized "holographic" web - a new way of looking at the web.

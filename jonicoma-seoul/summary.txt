@@ -1,0 +1,53 @@
+[Legendary]
+  [Games] Although gamers are the early adopters of VR, people use communication technology far more than we play games. 
+
+  [Communication Channels] We interact via communication channels that are rapidly growing wider, faster, and more effective. 
+
+  [Social Virtual Computing] Shared, virtual computing environments are new, powerful communication channels that allow us to connect in the most natural and fulfilling way possible online. 
+
+  [SDK] Developers can begin writing holographic web applications for this new medium TODAY, using the AltspaceVR SDK.
+
+
+[Games]
+  Gamers are early adopters.
+    PC and Console Gamers 
+      buy powerful hardware.
+      are familiar with a wide variety of user interfaces.
+      socialize through games.
+
+  We communicate much more than we game.
+    1.2 billion people play games.
+    5 billion people communicate with cell phones.
+
+  This shouldn't be surprising. 
+    We communicate with each other through our games.
+
+[Communication Channels]
+  Human to Computer Channels
+    Keyboard, Mouse, Gamepads, 6DOF remotes (limited)
+    DJ Equipment and other specialty hardware.
+    Programming Languages, User Interaces
+    Symbolic, visual, tactile.
+
+  Human to Human Channels
+    Text and Voice (Symbolic)
+    Body language
+    Music and dance
+    Dynamics
+
+  Human Computer Symbiosis
+  Is computing humane? (Come back to this)
+
+[Atoms of communication]
+  Dynamic media responds to
+[Social Virtual Computing]
+[SDK]
+
+[Ramifications]
+
+    Games define a set of capabilities with which gamers communicate.
+      Emotes, 
+      Journey Pings, 
+      Text chat, 
+      Voice chat, etc.
+    This is also true for cell phone apps.

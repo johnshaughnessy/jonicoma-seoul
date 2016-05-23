@@ -1,0 +1,25 @@
+
+  MORE NOTES ON GAVAN'S TALK:
+
+    PART 1:
+      Features of the web:
+        Sandbox - Does this website have a virus? (Very safe way of getting applications)
+        Url - The built in delivery system. Easy to integrate 
+        (Javascript talk - web is OS / app delivery)
+        Live IDEs - System can mutate itself.
+        Open Source Community - The largest, most vibrant open source community. Many designers. 
+        [TODO: Latest web technology from SVVR.]
+        [TODO: Aframe]
+        Open 3D content - forking, duplicating, etc.
+      Flappy Dragon - 
+        Multiplayer by default.
+        Rendering / Synchonization / 3D input
+      Character in her - eye contact w/ user.
+    PART 2: 
+      Three JS - supports lots of renderers
+                  var renderer = altspace.getThreeJSRenderer();
+                  renderer.render(scene);
+      "Render" means - bring transformations, geometries, and materials from 3js to altspace
+      Enhance existing websites.
+      Host anywhere.
+      Multi-platform, multi-user by default.

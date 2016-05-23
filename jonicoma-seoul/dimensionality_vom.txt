@@ -1,0 +1,27 @@
+"Dimensionality" of Messages
+TODO: Think of different words to describe this
+
+Choices I make when I send a message:
+	Does it have a timestamp?
+	Does it say who it's from?
+	Is it from "me"? (Am I role playing? Masking my identity? Using throwaway account, etc.)
+	Do I get a sent notification? (WhatsApp)
+	Do I get a received notification?
+	Do I get a read notification?
+	Will it be saved or erased? (Can't prevent saving, but for most users it's OK.)
+	Will it become unavailable for reading after some time?
+	Is it only viewable before some time or during certain hours?
+	Is it only viewable a # of times? 
+	Who am I sending it to?
+	Do the people I am sending it to know about each other?
+
+Messages are asynchronous, but features like whatsapp make it more similar to synchronous communication by adding small, automatic laters of communication at each step (i.e. the check marks).
+
+We communicate memes. Is the process of understanding a meme? My brain feels like there's an itch whenever I think about "human brains understanding something" and "a meme spreading across many minds". It "feels" like they are closely or deeply linked, but I don't know if I'm making it up.
+
+The capability set you choose defined the api by which other humans can communicate messages, memes, representations to your brain. It's important to understand the strenths and weaknesses of the media by which we think and communicate because of this. 
+
+
+
+
+
